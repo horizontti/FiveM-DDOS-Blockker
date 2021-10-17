@@ -1,5 +1,4 @@
-# Hori-DDos-Shield
-DDos Fivem SHIELD
+FiveM-DDOS-Blockker
 
 Kehityksessä lähinnä tähdäten suomalaiseen fivem serveri sceneen, jossa tämä DDos hyökkäykset ovat olleet arkipäivää jo vuoden verran. 
 Tämä on raaka tavaraa ja ei ole täysin testattu toimintakuntoiseksi, joten omalla vastuulla kokeilemaan jos tiedät mitä teet.
